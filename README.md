@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name/Username]!
+# Hello/Olá 👋, I'm Rafael Freire!
 
 ### About Me
 
@@ -24,26 +24,19 @@ I'm a passionate [Your Profession/Role, e.g., Full-stack Developer, Data Scienti
 | **Cloud** | `AWS`, `Google Cloud Platform`                     |
 | **Tools** | `Git`, `Docker`, ``Kubernetes`, `Jira`              |
 
-### Featured Projects
 
-* **[Project Name 1]**: A brief description of the project.
-    * [Link to Repository](https://github.com/your-username/project-1)
-    * [Live Demo (if applicable)](https://your-project-demo.com)
-* **[Project Name 2]**: Another brief description.
-    * [Link to Repository](https://github.com/your-username/project-2)
 
 ### My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nemofromdreamlande&show_icons=true&theme=radical)
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nemofromdreamland&theme=radical)
 
 ---
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![Personal Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=gatsby&logoColor=white)](https://www.your-personal-website.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafael-freire-7395b314b)
+
 
 ---
 
