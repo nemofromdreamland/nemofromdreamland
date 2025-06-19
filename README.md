@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a passionate programmer with a strong focus on **backend development** and **data**. I enjoy building robust systems and exploring how data can drive insights and solutions. Lately, I've been diving into **Go**, expanding my toolkit for high-performance applications.
+Driven by a desire to **experiment and learn new things**, I'm a programmer deeply interested in **backend development** and **data**. I enjoy the process of crafting resilient systems and figuring out how data can lead to meaningful solutions. My current focus is on **Go**, as I continue to explore languages that enhance performance.
 
 
 ### My Skills & Interests
