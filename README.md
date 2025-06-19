@@ -35,7 +35,7 @@ I'm a passionate [Your Profession/Role, e.g., Full-stack Developer, Data Scienti
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafael-freire-7395b314b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/rafael-freire-7395b314b](https://www.linkedin.com/in/rafael-freire-7395b314b/))
 
 
 ---
