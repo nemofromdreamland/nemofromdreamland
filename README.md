@@ -2,19 +2,18 @@
 
 ### About Me
 
-Driven by a desire to **experiment and learn new things**, I'm a programmer deeply interested in **backend development** and **data**. I enjoy the process of crafting resilient systems and figuring out how data can lead to meaningful solutions. My current focus is on **Go**, as I continue to explore languages that enhance performance.
-
+I'm a programmer focused on **Python** for **backend** and **data**, always eager to **experiment and learn new things**. Currently, I'm diving into **Go**.
 
 ### My Skills & Interests
 
-* **Languages:** Python, Go
-* **Interests:** Backend Development, Data Engineering, Data Science
+| Category    | Technologies                                      |
+| :---------- | :------------------------------------------------ |
+| **Languages** | `Python`, `Go`                                    |
+| **Interests** | Backend Development, Data Engineering, Data Science |
 
-
-### My GitHub Stats
+### GitHub Activity
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nemofromdreamland&show_icons=true&theme=radical)
-
 
 ### Connect with Me
 
